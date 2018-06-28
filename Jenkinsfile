@@ -2,7 +2,7 @@
 
 log.info 'Starting'
 
-templatedPodTemplate{
+standardPipeline{
     projectName = "Project1"
     serverDomain = "Project 1 server domain"
 
